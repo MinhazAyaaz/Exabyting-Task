@@ -1,1 +1,0 @@
-Open the index.HTML file in a browser to view the designed website.
